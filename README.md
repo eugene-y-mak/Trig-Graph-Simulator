@@ -27,6 +27,9 @@ Use the pause and play buttons to pause and play the movement of the graph. Can 
 This is mainly code specific stuff.
 
 -You can change the INCREMENT variable in variables.py to change the number of pixels that equal 1 unit. 
+
 -THEORETICALLY, you can change the HEIGHT and WIDTH variables in variables.py. However, I am an idiot and probably hardcoded the numbers somewhere, so it might not work. I did my best to diligently avoid it but there's probably a hardcoded number somewhere. 
--you can change the colors of the buttons to anything you want in variables.py. The "ON" ones are for when the button is pressed down.
+
+-You can change the colors of the buttons to anything you want in variables.py. The "ON" ones are for when the button is pressed down.
+
 -Pretty sure the DEGREE variable is unused lol.
