@@ -1,8 +1,6 @@
 # Trig Graph Simulator
 This is a basic simulation of how a trigonometric graph (sin, cos, or tan) is created from a unit circle. Coded in Python 3.6 with the Pygame library.
 
-Project done for Mr. Sharick's 2nd period APCSP class (2018-2019). 
-
 # General Info 
 Use the big sin, cos, tan buttons to change the graph. Each graph has its own set of attributes and do not share any inputs with each other. 
 
